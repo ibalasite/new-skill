@@ -6,8 +6,8 @@
 - [x] progress.md — this file
 - [x] Repo structure: bin/, skills/new-skill-upgrade/, template/
 - [x] git init + initial commit
-- [ ] Create GitHub repo: github.com/ibalasite/new-skill
-- [ ] Set remote origin + push
+- [x] Create GitHub repo: github.com/ibalasite/new-skill
+- [x] Set remote origin + push
 > DONE
 
 ---
